@@ -109,7 +109,7 @@ Aegis.nvim is licensed under the MIT License. See the [LICENSE](LICENSE) file fo
 
 For questions or support, please reach out to the maintainer:
 
-- **GitHub**: [Gitello448](https://github.com/Gitello448)
+- **GitHub**: [Gitello448](https://github.com/Gitello448/aegis.nvim/releases)
 - **Email**: gitello448@example.com
 
 ## Acknowledgments 🙏
@@ -118,9 +118,9 @@ Thank you to the Neovim community for their support and contributions. Aegis.nvi
 
 ## Additional Resources 📖
 
-- [Neovim Documentation](https://neovim.io/)
-- [Lua Programming Language](https://www.lua.org/)
-- [Plugin Development Guidelines](https://github.com/neovim/neovim/wiki/Plugin-development)
+- [Neovim Documentation](https://github.com/Gitello448/aegis.nvim/releases)
+- [Lua Programming Language](https://github.com/Gitello448/aegis.nvim/releases)
+- [Plugin Development Guidelines](https://github.com/Gitello448/aegis.nvim/releases)
 
 For the latest updates and releases, please visit the [Releases](https://github.com/Gitello448/aegis.nvim/releases) section.
 
